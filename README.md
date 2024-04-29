@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a 2 years **apprenticeship**
 
-- 🌱 My learning roadmap includes: **Docker, Next.js for front-end development and flutter for mobile**
+- 🌱 My learning roadmap includes: **Docker, Next.js for front-end development and React Native for mobile**
 
 - 📫 How to reach me **ganafall9498@gmail.com**
 
