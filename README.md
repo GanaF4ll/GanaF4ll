@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gana Fall</h1>
 <h3 align="center">A passionate apprentice web developer from Paris</h3>
 
-- 🔭 I’m currently looking for a 2 years **apprenticeship**
-
-- 🌱 My learning roadmap includes: **Docker, Next.js for front-end development and React Native for mobile**
-
 - 📫 How to reach me **ganafall9498@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ganafall/](https://www.linkedin.com/in/ganafall/)
