@@ -64,9 +64,6 @@
 ## 🚀 What I'm Building
 
 ### 🔥 LUDORA
-<h3 align="center">
-<a href="https://www.ludora.fr/"><img src="https://www.ludora.fr/_next/static/media/logo-ludora.0jv23aljo36fl.svg" width="100" height="40"/></a>
-</h3>
 
 > A modern mobile application focused on making team sports easy to organize and play.
 
@@ -75,6 +72,9 @@
 * Modern UI
 * Focus on performance & user experience
 
+<h3 align="center">
+<a href="https://www.ludora.fr/"><img src="https://www.ludora.fr/_next/static/media/logo-ludora.0jv23aljo36fl.svg" width="100" height="40"/></a>
+</h3>
 
 ---
 
